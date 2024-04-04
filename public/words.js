@@ -15,7 +15,7 @@ var WORDS = [
 	"animal|horse",
 	"animal|octopus",
 	"animal|peacock",
-	"animal|shrimp",
+	"animal|shrimp",	
 	"fruit|apple",
 	"fruit|watermelon",
 	"fruit|avocado",
